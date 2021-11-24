@@ -3,7 +3,13 @@
   <head>
     <title>Test</title>
   </head>
+  <style>
+    a{
+      background: aliceblue;
+      color: black;
+    }
+  </style>
   <body>
-   <h1>Hello Word</h1>
+   <a href="log.jsp"><h1>Hello Word</h1></a>
   </body>
 </html>
