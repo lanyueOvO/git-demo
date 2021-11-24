@@ -6,7 +6,6 @@
 <body>
 <label>登录</label>
   <form>
-
       <input><br>
       <input>
   </form>
